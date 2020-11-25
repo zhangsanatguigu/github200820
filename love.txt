@@ -3,3 +3,4 @@ hello,zhangsan,Are you handsome at guigu .  -- lisiatguigu
 是，必须de  --zhangsanatguigu
 今晚可以见面吗? --lisiatguigu
 放开那个女孩。。。。  --wangwuatguigu
+滚蛋.
